@@ -617,7 +617,7 @@ class MeetingScheduler:
 class AttendanceBot(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("Attendance Bot v2")
+        self.title("Attendance Bot")
         self.geometry("860x680")
         self.configure(bg=C["bg"])
         self.resizable(True, True)
