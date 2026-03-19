@@ -1,0 +1,12 @@
+credentials.json
+google_token.json
+attendance_config.json
+present_sir.wav
+*.wav
+__pycache__/
+*.pyc
+*.pyo
+.env
+tempCodeRunnerFile.py
+find_profiles.py
+Audio/

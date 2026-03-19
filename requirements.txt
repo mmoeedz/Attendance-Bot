@@ -1,0 +1,12 @@
+sounddevice
+soundfile
+SpeechRecognition
+pyaudio
+keyboard
+selenium
+webdriver-manager
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+pygame
+numpy
